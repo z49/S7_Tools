@@ -1,0 +1,21 @@
+Bitlocker|
+Printer Whitelist|
+Local Admin PW|
+Inital Pointsec PW|
+Macbooer Whitelist|
+CE Call Back|
+CE Gen. Info|
+Documentation|
+Part Number|
+Process Info
+/
+CE requested Bitlocker Recovery key.|
+CE requested printer be added to the whitelist.|
+CE requested local admin password.|
+CE requested initial Pointsec Password.|
+CE requested a Workstation be added to the MacBooter whitelist.|
+CE will call back.|
+CE requested general troubleshooting assistance.|
+CE requested documentation for ____ .|
+CE requested a Part Number for ____ .|
+CE requested clarification of the ____ process.|
